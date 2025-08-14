@@ -18,4 +18,5 @@ Collected information will not be shared with third parties and will be deleted 
 
 ### Contact
 If you have any questions, please contact us at:  
+
 lumi.rivers.media@gmail.com
